@@ -1,6 +1,6 @@
 import openai
 
-api_key = "use your api you butpalz"
+api_key = "use your api"
 while True:
   x = input("You: ")  # Get user input
   if x=="exit()":
